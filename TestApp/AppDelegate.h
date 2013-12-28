@@ -12,4 +12,5 @@
 
 @property (strong, nonatomic) UIWindow *window;
 //say ST
+@property (strong, nonatomic) NSString* name;
 @end
