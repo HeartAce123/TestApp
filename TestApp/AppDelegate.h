@@ -17,4 +17,5 @@
 =======
 @property (strong, nonatomic) NSString* name;
 >>>>>>> TestApp/developer1
+//I disappear
 @end
