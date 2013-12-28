@@ -16,6 +16,10 @@
 @property (strong, nonatomic) UINavigationController* navController;
 =======
 @property (strong, nonatomic) NSString* name;
+<<<<<<< HEAD
 >>>>>>> TestApp/developer1
 //I disappear
+=======
+//here i come
+>>>>>>> TestApp/developer1
 @end
