@@ -12,5 +12,9 @@
 
 @property (strong, nonatomic) UIWindow *window;
 //say ST
+<<<<<<< HEAD
 @property (strong, nonatomic) UINavigationController* navController;
+=======
+@property (strong, nonatomic) NSString* name;
+>>>>>>> TestApp/developer1
 @end
